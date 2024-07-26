@@ -66,6 +66,7 @@ The bot provides answers, including sources when available.
 Conversation data is stored in MongoDB. Use MongoDB tools for data management and analysis.
 
 ## Troubleshooting
+
 Check the following if issues occur:
 
 * Environment variables in .env.
